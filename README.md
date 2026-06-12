@@ -1,5 +1,5 @@
 # About Me:
-# Hey there 👋 I'm Anirudh
+# Hey there I'm Anirudh
 
 ### Computer Science Student | AI Builder | Open Source Enthusiast | Cybersecurity Explorer
 
@@ -9,58 +9,13 @@ I enjoy turning ideas into working products, contributing to communities, organi
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-* 🤖 AI-powered applications
-* 🔐 Cybersecurity and security research
-* 🌐 Backend development with Python
-* ☁️ Cloud and DevOps technologies
-* 🌱 Open Source contributions
-
----
-
-## 🌟 Featured Projects
-
-### 📞 SAHAY AI — Neural Telephony Bridge for Digital Inclusion
-
-SAHAY AI enables anyone with a basic phone to access modern AI through a simple phone call.
-
-By bridging the Public Switched Telephone Network (PSTN) with Large Language Models, SAHAY AI removes barriers created by internet access, smartphone availability, literacy, and language.
-
-**Tech Stack:** Python, Flask, Twilio, Sarvam AI, Gemini 2.5 Flash, FFmpeg, ngrok
-
-**Impact:** Bringing AI access to underserved communities through voice-first interfaces.
-
----
-
-### 📊 TODO Monitoring with Grafana
-
-A Flask-based application integrated with monitoring and observability tooling.
-
-**Highlights**
-
-* Backend API development
-* Metrics collection
-* Dashboard visualization
-* Application monitoring
-
-**Tech Stack:** Python, Flask, Grafana
-
----
-
-### 🤖 Namma GPT
-
-A lightweight containerized chatbot API built using Python, Flask, and Docker.
-
-**Highlights**
-
-* REST API development
-* Docker containerization
-* Rule-based conversational engine
-
-**Tech Stack:** Python, Flask, Docker
-
----
+*  AI-powered applications
+*  Cybersecurity and security research
+*  Backend development with Python
+*  Cloud and DevOps technologies
+*  Open Source contributions
 
 ## 🏆 Community & Leadership
 
